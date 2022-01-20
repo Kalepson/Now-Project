@@ -1,5 +1,5 @@
 const scuze = document.querySelector(".scuze");
 const rezu = document.querySelector(".rezultat")
 scuze.addEventListener("click" ,() =>{
-    rezu.textContent = "Nu am incercat sa vad ce se intimpla cind stergi branch parca totul bine :) data viitore nu le ster ca suntem incepatori  :("
+    rezu.textContent = "Nu am incercat sa vad ce se intimpla cind stergi branch parca totul bine :)"
 })
