@@ -1,3 +1,6 @@
+const square = document.querySelector('.square');
+square.addEventListener('click', () => alert('Super, click is working!'));
+
 const scuze = document.querySelector(".scuze");
 const rezu = document.querySelector(".rezultat")
 scuze.addEventListener("click" ,() =>{
